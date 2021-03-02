@@ -40,7 +40,7 @@ classifiers = ["Development Status :: 3 - Alpha",
                "Topic :: Scientific/Engineering :: Information Analysis",
                "Topic :: Scientific/Engineering :: Mathematics"]
 
-python_requires = "~=3.8"
+python_requires = "~=3.7"
 
 install_requires = ['torch>=1.7.0', 'sympy>=1.7.1']
 
